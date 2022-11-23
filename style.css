@@ -1,0 +1,27 @@
+#canvas{
+    background-color: #ae548d;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    width: 650px;
+    height: 450px;
+    margin: 40px auto 40px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+}
+
+#button{
+    text-align: center;
+    width: 200px;
+    height: 50px;
+    margin: 40px auto 20px;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: #ae548d;
+    border-radius: 5px;
+    border-style: none;
+    display: block;
+}
